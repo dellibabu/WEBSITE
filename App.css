@@ -1,0 +1,15 @@
+.grid{
+  display: grid;
+  grid-template-columns: 30% 70%;
+  background-color:azure;
+  font-family: 'Courier New', Courier, monospace;
+}
+.nav li{
+  display: inline;
+  padding: 30px;
+  font-size:20px;
+  text-decoration: none;
+}
+.head{
+color:orangered;
+}
