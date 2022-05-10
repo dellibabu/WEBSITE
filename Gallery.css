@@ -1,0 +1,9 @@
+.galery{
+    display: grid;
+    grid-template-columns:33% 33% 33% ;
+    grid-gap: 10px;
+    margin: 15px;
+    grid-column-gap: 3px;
+    padding: 5px;
+    padding-left: 40px;
+}
