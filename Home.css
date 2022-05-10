@@ -1,0 +1,14 @@
+.x{
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+.y{
+    margin: 20px;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+.t img{
+    height: 450px;
+    width: 450px;
+    border-radius: 300px;
+}
